@@ -1,0 +1,18 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Testing Log",
+      "attention": false,
+      "tech": "Toqeer Iqbal",
+      "date": "2020-01-05T15:17:06.003Z"
+    }
+  ],
+  "techs": [
+    {
+      "firstName": "Toqeer",
+      "lastName": "Iqbal",
+      "id": 1
+    }
+  ]
+}
